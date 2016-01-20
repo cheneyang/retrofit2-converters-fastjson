@@ -1,0 +1,1 @@
+# retrofit-converters-fastjson
