@@ -15,7 +15,7 @@ dependencies {
     testCompile group: 'com.squareup.okhttp3', name: 'mockwebserver', version: '3.0.1'
     testCompile group: 'org.assertj', name: 'assertj-core', version: '3.3.0'
 
-    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta3'
+    compile 'com.squareup.retrofit2:retrofit:2.0.0-beta4'
     compile 'com.squareup.okhttp3:okhttp:3.0.1'
     compile 'com.squareup.okhttp3:okhttp-urlconnection:3.0.1'
     compile 'com.alibaba:fastjson:1.1.46.android'
