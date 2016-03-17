@@ -16,6 +16,6 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency  
 ```groovy  
 	dependencies {  
-	        compile 'com.github.SeanCode:retrofit-converters-fastjson:1.0'  
+	        compile 'com.github.SeanCode:retrofit-converters-fastjson:1.1'
 	}  
 ```
